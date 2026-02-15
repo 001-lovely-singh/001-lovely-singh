@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Love Kumar, a passionate developer from India.
+I'm Love, a passionate developer from India.
 
 I love building real-world applications that actually solve problems.
 
